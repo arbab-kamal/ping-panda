@@ -10,7 +10,6 @@ const REQUEST_VALIDATOR = z
     category: CATEGORY_NAME_VALIDATOR,
     fields: z.record(z.string().or(z.number()).or(z.boolean())).optional(),
     description: z.string().optional(),
-    field: z.string(),
   })
   .strict()
 
