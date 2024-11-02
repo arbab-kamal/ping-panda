@@ -10,7 +10,7 @@ documentation coming soon, for now just clone this repo, fill out the .env.examp
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
-![Project Image](https://github.com/arbab-kamal/pingpanda/blob/main/public/thumbnail.png)
+![Project Image](https://github.com/arbab-kamal/pingpanda/public/thumbnail.png)
 
 ## Features
 
